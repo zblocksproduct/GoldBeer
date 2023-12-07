@@ -13,11 +13,8 @@ export default function TokenClaim() {
           The Gold Beer Odyssey{" "}
         </p>
         <p className="text-[#979494] font-medium sm:text-base text-sm leading-[28px] xl:max-w-[967px] max-w-[910px] w-[100%] m-auto text-center mt-[15px] xl:px-0 px-[25px]">
-          Start earning unique and exclusive Heineken-based rewards and
-          discounts by collecting from our range of Heineken Family tokens. Each
-          Heineken product has its own associated token and rewards. Collect
-          them all to become a Heineken VIP. Click and claim with your choice of
-          account below and start enjoying our beer-related rewards!{" "}
+          We're not just passionate about beer; we're on an epic beer odyssey, and we want you to be a part of the adventure.
+          From exploring the art of intricate craft brews to savoring the timeless classics, we're your trusty guides in the art of beer.{" "}
         </p>
       </div>
       <div className="bg-[#163113] sm:mt-[120px] mt-[80px] sm:pt-[120px] pt-[80px] xl:px-0 px-[25px]">
