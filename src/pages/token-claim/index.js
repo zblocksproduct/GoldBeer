@@ -5,8 +5,8 @@ export default function TokenClaim() {
   return (
     <React.Fragment>
       <Header />
-      <div className="sm:mt-[120px] mt-[80px] ">
-        <p className="text-center text-[#979494] sm:text-[20px] text-[18px] font-semibold">
+      <div className="bg-[#D7F5E7] sm:mt-[120px] mt-[80px] ">
+        <p className="text-center text-[#2F5744] sm:text-[20px] text-[18px] font-semibold">
           REWARDS CAMPAIGN
         </p>
         <p className="text-[#2F5744] 'paytone one' font-bold sm:text-[60px] text-[35px] text-center mt-[30px] sm:px-0 px-[25px]">
