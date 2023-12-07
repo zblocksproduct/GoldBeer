@@ -9,15 +9,15 @@ export default function TokenClaim() {
         <p className="text-center text-[#979494] sm:text-[20px] text-[18px] font-semibold">
           REWARDS CAMPAIGN
         </p>
-        <p className="text-[#163113] 'paytone one' font-bold sm:text-[60px] text-[35px] text-center mt-[30px] sm:px-0 px-[25px]">
+        <p className="text-[#2F5744] 'paytone one' font-bold sm:text-[60px] text-[35px] text-center mt-[30px] sm:px-0 px-[25px]">
           The Gold Beer Odyssey{" "}
         </p>
-        <p className="text-[#979494] poppins font-medium sm:text-base text-sm leading-[28px] xl:max-w-[967px] max-w-[910px] w-[100%] m-auto text-center mt-[15px] xl:px-0 px-[25px]">
+        <p className="text-[#2F5744] poppins font-medium sm:text-base text-sm leading-[28px] xl:max-w-[967px] max-w-[910px] w-[100%] m-auto text-center mt-[15px] xl:px-0 px-[25px]">
           We're not just beer enthusiasts; we're embarking on an epic beer journey, and we invite you to join us on this adventure.
           Whether we're delving into the craft of intricate brews or savoring the timeless classics, we're your reliable companions in the world of beer.{" "}
         </p>
       </div>
-      <div className="bg-[#D7F5E7] sm:mt-[120px] mt-[80px] sm:pt-[120px] pt-[80px] xl:px-0 px-[25px]">
+      <div className="bg-[#2F5744] sm:mt-[120px] mt-[80px] sm:pt-[120px] pt-[80px] xl:px-0 px-[25px]">
         <div className="max-w-[924px] w-[100%] m-auto">
           <p className="sm:text-[60px] text-[35px] kadwa font-bold text-[#F7F7F7] text-center uppercase">
             Claim your Gold Beer
