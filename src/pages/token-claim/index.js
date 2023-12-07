@@ -17,7 +17,7 @@ export default function TokenClaim() {
           Whether we're delving into the craft of intricate brews or savoring the timeless classics, we're your reliable companions in the world of beer.{" "}
         </p>
       </div>
-      <div className="bg-[#163113] sm:mt-[120px] mt-[80px] sm:pt-[120px] pt-[80px] xl:px-0 px-[25px]">
+      <div className="bg-[#D7F5E7] sm:mt-[120px] mt-[80px] sm:pt-[120px] pt-[80px] xl:px-0 px-[25px]">
         <div className="max-w-[924px] w-[100%] m-auto">
           <p className="sm:text-[60px] text-[35px] kadwa font-bold text-[#F7F7F7] text-center uppercase">
             Claim your Gold Beer
