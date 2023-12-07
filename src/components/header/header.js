@@ -14,7 +14,7 @@ export default function Header() {
   const navigate = useNavigate();
   return (
     <React.Fragment>
-      <div className="h-[140px] flex items-center bg-[#163113] w-[100%] ">
+      <div className="h-[140px] flex items-center bg-[#2F5744] w-[100%] ">
         <div className="max-w-[1600px] m-auto w-[100%] flex items-center justify-between xl:px-0 px-[25px]">
           <div className="xl:max-w-[200px] xl:w-[100%]">
             <img
