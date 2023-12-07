@@ -6,10 +6,8 @@ export default function Header() {
     "OUR STORY",
     "SUSTAINABILITY",
     "OUR PRODUCTS",
-    "ENJOY RESPONSIBLY",
     "SPONSORSHIPS",
     "CAMPAIGNS",
-    "PLAYER 0.0",
   ];
   const navigate = useNavigate();
   return (
