@@ -9,7 +9,7 @@ export default function TokenClaim() {
         <p className="text-center text-[#979494] sm:text-[20px] text-[18px] font-semibold">
           REWARDS CAMPAIGN
         </p>
-        <p className="text-[#163113] paytone one font-bold sm:text-[60px] text-[35px] text-center mt-[30px] sm:px-0 px-[25px]">
+        <p className="text-[#163113] 'paytone one' font-bold sm:text-[60px] text-[35px] text-center mt-[30px] sm:px-0 px-[25px]">
           The Gold Beer Odyssey{" "}
         </p>
         <p className="text-[#979494] poppins font-medium sm:text-base text-sm leading-[28px] xl:max-w-[967px] max-w-[910px] w-[100%] m-auto text-center mt-[15px] xl:px-0 px-[25px]">
