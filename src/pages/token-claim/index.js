@@ -10,7 +10,7 @@ export default function TokenClaim() {
           REWARDS CAMPAIGN
         </p>
         <p className="text-[#163113] kadwa font-bold sm:text-[60px] text-[35px] text-center mt-[30px] sm:px-0 px-[25px]">
-          The Heineken Family{" "}
+          Join Our Beer Odyssey Today{" "}
         </p>
         <p className="text-[#979494] font-medium sm:text-base text-sm leading-[28px] xl:max-w-[967px] max-w-[910px] w-[100%] m-auto text-center mt-[15px] xl:px-0 px-[25px]">
           Start earning unique and exclusive Heineken-based rewards and
