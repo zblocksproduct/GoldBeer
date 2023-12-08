@@ -20,7 +20,7 @@ export default function TokenClaim() {
       <div className="bg-[#2F5744] sm:mt-[120px] mt-[80px] sm:pt-[120px] pt-[80px] xl:px-0 px-[25px]">
         <div className="max-w-[924px] w-[100%] m-auto">
           <p className="sm:text-[60px] text-[35px] kadwa font-bold text-[#F7F7F7] text-center uppercase">
-            Claim your Gold Beer
+            Claim your Prague Odyssey
             <br /> Token Below
           </p>
           <div className="sm:flex items-center justify-between sm:mt-[50px] mt-[30px]">
@@ -29,10 +29,10 @@ export default function TokenClaim() {
                 Congratulations!{" "}
               </p>
               <p className="text-[#F7F7F7] sm:mt-[30px] mt-[20px] leading-[28px]">
-                Claim this Gold Beer token to unlock beer-related prizes, such as exclusive Gold Beer offers and experiences. 
-                Collect all of our tokens to win a free tasting tour at our brewing facility in Prague.              
+                Claim tokens from the Prague Odyssey to unlock beer-related prizes, such as exclusive Gold Beer offers and experiences. 
+                For example, collect all of our tokens to win a free tasting tour at our brewing facility in Prague!              
                 <br />
-                <br />The more tokens you claim, the more we will personalize our rewards to suit your taste in beer!{" "}
+                <br />The more tokens you claim, the more we will personalize rewards to suit your taste in beer.{" "}
               </p>
             </div>
             <img
