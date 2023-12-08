@@ -45,11 +45,8 @@ export default function TokenClaim() {
                 Congratulations!{" "}
               </p>
               <p className="text-[#F7F7F7] mt-[30px] leading-[28px]">
-                Claim this Heineken Original reward to unlock discounts and
-                prizes with Heineken and Heineken-owned brands.
-                <br /> Earn prizes with our partners too, such as entering into
-                a Sweepstake for VIP tickets to the 2024 UEFA Champions League
-                Final.{" "}
+                Claim this Gold Beer token to unlock beer-related prizes and discounts with our brand and our partners.
+                <br /><br /> The more of our product tokens you earn, the more we can personalize the rewards to suit your taste in beer and other interests!{" "}
               </p>
             </div>
           </div>
