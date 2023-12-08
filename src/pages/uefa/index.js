@@ -23,8 +23,8 @@ export default function UEFA() {
 
   async function verify() {
     const conf = {
-      code: 'Z1699467566545535',
-      id: '23d47815-8966-4930-bcba-a7969353b42e',
+      code: 'Z1702050168892848',
+      id: 'f49652b1-a5c5-40cc-b699-b258401cd797',
     };
     const response = await tga.GatedVerifier.verify(conf);
     if (response.status) {
