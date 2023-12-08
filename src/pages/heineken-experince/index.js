@@ -68,10 +68,10 @@ export default function HeinekenExperience() {
         />
         <div className="absolute h-[100%] w-[100%] text-center sm:leading-[86px] leading-[46px] top-0 flex justify-center flex-col items-center">
           <p className="text-white max-w-[1050px] w-[100%] m-x-auto xl:px-0 px-[25px] font-bold koh sm:text-[70px] text-[40px] mt-[-100px]">
-            Welcome to the Heineken Experience
+            Welcome to the Gold Beer Experience
           </p>
           <p className="text-center text-[20px] leading-[30px] text-white mt-[49px] xl:px-0 px-[25px]">
-            Taste the story of the world’s most famous beer
+            Taste the story of Europe's most famous beer
           </p>
         </div>
         <div className="absolute sm:bottom-0 bottom-[-120px] w-[100%] sm:flex justify-center items-center xl:px-0 px-[25px]">
@@ -87,7 +87,7 @@ export default function HeinekenExperience() {
       <div className="bg-[#163113] ">
         <div className="xl:px-0 px-[25px]">
           <p className="sm:text-[55px] text-[30px] xl:max-w-[1200px] m-auto kadwa font-bold text-center text-white uppercase sm:pt-[100px] pt-[220px]">
-            In the heart of Amsterdam, you will find the home of Heineken.
+            In the heart of Prague, you will find the home of Gold Beer.
           </p>
           <p className="font-bold sm:text-[40px] text-[25px] text-[#F7F7F7] text-center sm:mt-[50px] mt-[40px]">
             What do you get?{" "}
@@ -95,13 +95,13 @@ export default function HeinekenExperience() {
           <div className="flex items-center justify-center sm:mt-[30px] mt-[20px]">
             <img src="/images/check.svg" alt="" />
             <p className="sm:text-[25px] text-[18px] text-white ml-3">
-              Access to the first built Heineken brewery (1.5hrs)
+              Access to the first built Gold Beer brewery (1.5hrs)
             </p>
           </div>
           <div className="flex items-center justify-center mt-[10px]">
             <img src="/images/check.svg" alt="" />
             <p className="sm:text-[25px] text-[18px] text-white ml-3">
-              Two perfectly chilled Heineken beers at the Best ‘Dam Bar
+              Two perfectly chilled beers at Pilsner's Palace, our rooftop bar where you can Czech the views
             </p>
           </div>
           <div className="flex items-center justify-center mt-[10px]">
@@ -146,7 +146,7 @@ export default function HeinekenExperience() {
             </p>
             <p className="text-[#333] text-center sm:text-[28px] text-[26px]">
               As a loyal customer, click <a href="https://zblocks.io/heineken-experience-ticket/" class="text-blue-600/100">here</a> to
-              download your free Heineken Experience Ticket.
+              download your free Gold Beer Experience Ticket.
             </p>
           </div>
         </div>
