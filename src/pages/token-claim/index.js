@@ -10,10 +10,10 @@ export default function TokenClaim() {
           REWARDS CAMPAIGN
         </p>
         <p className="text-[#2F5744] kadwa font-bold sm:text-[60px] text-[35px] text-center mt-[30px] sm:px-0 px-[25px]">
-          The Gold Beer Odyssey{" "}
+          The Prague Odyssey{" "}
         </p>
         <p className="text-[#2F5744] poppins font-medium sm:text-base text-sm leading-[28px] xl:max-w-[967px] max-w-[910px] w-[100%] m-auto text-center mt-[15px] xl:px-0 px-[25px]">
-          We're not just beer enthusiasts; we're embarking on an epic beer journey, and we invite you to join us on this adventure.
+          At Gold Beer, we invite you to embark on this epic journey exploring the famous beer flavours that help make Prague the city it is.
           Whether we're delving into the craft of intricate brews or savoring the timeless classics, we're your reliable companions in the world of beer.{" "}
         </p>
       </div>
