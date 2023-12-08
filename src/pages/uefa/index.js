@@ -55,7 +55,7 @@ export default function UEFA() {
               </div>
             </div>
             <p className="max-w-[924px] sm:mt-[50px] mt-[30px] w-[100%] sm:text-[22px] text-[18px] text-white">
-              Congratulations! As a Heineken token owner, you qualify to enter
+              Congratulations! As a Gold Beer token owner, you qualify to enter
               to our sweepstake for a chance to win tickets to the Champions
               League Final at Wembley Stadium, Saturday June 1, 2024.{" "}
             </p>
