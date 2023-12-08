@@ -29,8 +29,8 @@ export default function TokenClaim() {
                 Congratulations!{" "}
               </p>
               <p className="text-[#F7F7F7] sm:mt-[30px] mt-[20px] leading-[28px]">
-                Claim this Gold Beer reward to unlock beer-related discounts and
-                prizes with our brand and other Gold Beer-owned brands.
+                Claim this Gold Beer token to unlock beer-related prizes, such as exclusive Gold Beer offers and experiences. 
+                Collect all of our tokens to win a free tasting tour at our brewing facility in Prague.              
                 <br />
                 <br />The more tokens you claim, the more we will personalize our rewards to suit your taste in beer!{" "}
               </p>
