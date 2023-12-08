@@ -28,8 +28,8 @@ export default function HeinekenExperience() {
 
   async function verify() {
     const conf = {
-      code: 'Z1699467659879931',
-      id: '23d47815-8966-4930-bcba-a7969353b42e',
+      code: 'Z1702050243842476',
+      id: 'f49652b1-a5c5-40cc-b699-b258401cd797',
     };
     const response = await tga.GatedVerifier.verify(conf);
     if (response.status) {
