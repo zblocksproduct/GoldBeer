@@ -55,7 +55,7 @@ export default function TokenClaim() {
               className="sm:w-[317px] cursor-pointer w-[100%] h-[68px] rounded-[6px] flex justify-center items-center"
               style={{ background: "rgba(255, 255, 255, 0.30)" }} onClick={() => {
             window.location.href =
-              "https://wallettest.zblocks.io?gift=41c7c0fe169c55ed434682429989&hint=google";
+              "https://wallettest.zblocks.io?gift=61e0700eda126f8442817ca6db00&hint=google";
           }}
             >
               <img src="/images/google.svg" alt="" />
@@ -67,7 +67,7 @@ export default function TokenClaim() {
               className="sm:w-[317px] cursor-pointer w-[100%] h-[68px] rounded-[6px] flex justify-center items-center sm:ml-[30px] sm:mt-0 mt-[21px]"
               style={{ background: "rgba(255, 255, 255, 0.30)" }} onClick={() => {
             window.location.href =
-              "https://wallettest.zblocks.io?gift=41c7c0fe169c55ed434682429989&hint=microsoft";
+              "https://wallettest.zblocks.io?gift=61e0700eda126f8442817ca6db00&hint=microsoft";
           }}
             >
               <img src="/images/microsoft.svg" alt="" />
