@@ -42,7 +42,7 @@ export default function HeinekenExperience() {
   }
   return (
     <React.Fragment>
-      <div className="bg-[#163113] h-[130px] w-[100%] flex justify-center items-center">
+      <div className="bg-[#2F5744] h-[130px] w-[100%] flex justify-center items-center">
         <img
           src="/images/logo-1.png"
           alt=""
