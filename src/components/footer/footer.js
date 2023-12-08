@@ -35,7 +35,7 @@ export default function Footer() {
             ))}
             <div className="flex justify-between">
               <p className="text-[#BBBCBD] text-xl kadwa font-bold py-2">
-                Renewed Heineken Experience
+                Renewed Gold Beer Experience
               </p>
               <div className="cursor-pointer py-[3px] px-[18px] bg-[#26660D] rounded-[52px] h-fit kadwa text-white">
                 New
@@ -99,7 +99,7 @@ export default function Footer() {
               </p>
               <p className="text-[#BBBCBD] kadwa font-bold">FaQ`s</p>
               <p className="text-[#BBBCBD] kadwa font-bold">House Rules</p>
-              <p className="text-[#BBBCBD] kadwa font-bold">Heineken Company</p>
+              <p className="text-[#BBBCBD] kadwa font-bold">Gold Beer Company</p>
             </div>
           </div>
           <div className="xl:w-[10%] xl:flex justify-end hidden ">
