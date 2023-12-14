@@ -37,11 +37,11 @@ export default function Footer() {
               <p className="text-[#FFFFFF] text-xl kadwa font-bold py-2">
                 Renewed Gold Beer Experience
               </p>
-              <div className="cursor-pointer py-[3px] px-[18px] bg-[#26660D] rounded-[52px] h-fit kadwa text-white">
+              <div className="cursor-pointer py-[3px] px-[18px] text-[#2F5744] bg-[#D7F5E7] rounded-[52px] h-fit kadwa text-white">
                 New
               </div>
             </div>
-            <div className="w-[130px] bg-[#26660D] h-[10px] mt-3" />
+            <div className="w-[130px] bg-[#D7F5E7] h-[10px] mt-3" />
           </div>
         </div>
         <div>
@@ -57,7 +57,7 @@ export default function Footer() {
               </div>
             ))}
 
-            <div className="w-[166px] h-[32px] bg-[#D7F5E7]  mt-3 kadwa font-bold flex justify-center items-center text-white">
+            <div className="text-[#2F5744] w-[166px] h-[32px] bg-[#D7F5E7]  mt-3 kadwa font-bold flex justify-center items-center text-white">
               Book your event
             </div>
           </div>
