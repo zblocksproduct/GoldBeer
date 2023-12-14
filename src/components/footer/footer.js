@@ -13,7 +13,7 @@ export default function Footer() {
   const event = ["Events", "Discover our spaces", "Our services"];
   return (
     <React.Fragment>
-      <div className="bg-[#151C13] grid lg:grid-cols-4 md:grid-cols-1 py-[30px] xl:px-[100px] px-[25px]">
+      <div className="bg-[#2F5744] grid lg:grid-cols-4 md:grid-cols-1 py-[30px] xl:px-[100px] px-[25px]">
         <div className="">
           <img
             src="/images/logo-1.png"
