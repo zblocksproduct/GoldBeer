@@ -84,7 +84,7 @@ export default function HeinekenExperience() {
           </div>
         </div>
       </div>
-      <div className="bg-[#163113] ">
+      <div className="bg-[#2F5744] ">
         <div className="xl:px-0 px-[25px]">
           <p className="sm:text-[55px] text-[30px] xl:max-w-[1200px] m-auto kadwa font-bold text-center text-white uppercase sm:pt-[100px] pt-[220px]">
             In the heart of Prague, you will find the home of Gold Beer.
