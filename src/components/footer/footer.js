@@ -51,7 +51,7 @@ export default function Footer() {
             </p>
             {event.map((item, index) => (
               <div key={index}>
-                <p className="text-[#2F5744] text-xl kadwa font-bold py-2">
+                <p className="text-[#FFFFFF] text-xl kadwa font-bold py-2">
                   {item}
                 </p>
               </div>
