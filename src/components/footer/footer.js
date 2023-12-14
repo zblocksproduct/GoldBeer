@@ -51,7 +51,7 @@ export default function Footer() {
             </p>
             {event.map((item, index) => (
               <div key={index}>
-                <p className="text-[#FFFFFF] text-xl kadwa font-bold py-2">
+                <p className="text-[#2F5744] text-xl kadwa font-bold py-2">
                   {item}
                 </p>
               </div>
@@ -86,20 +86,20 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <div className="border border-r-0 border-l-0 border-b-0 border-t-[#444942] w-[100%] bg-[#151C13] xl:h-[130px]  flex items-center px-[100px] ">
+      <div className="border border-r-0 border-l-0 border-b-0 border-t-[#444942] w-[100%] bg-[#2F5744] xl:h-[130px]  flex items-center px-[100px] ">
         <div className="flex items-center w-[100%]">
           <div className="xl:w-[90%] ">
             <div className="xl:flex hidden justify-between w-full">
               <p className="kadwa font-bold  text-white">© 2023 Copyright</p>
-              <p className="text-[#BBBCBD] kadwa font-bold">Cookie Settings</p>
-              <p className="text-[#BBBCBD] kadwa font-bold">Privacy Policy</p>
-              <p className="text-[#BBBCBD] kadwa font-bold">Cookie Policy</p>
-              <p className="text-[#BBBCBD] kadwa font-bold">
+              <p className="text-[#FFFFFF] kadwa font-bold">Cookie Settings</p>
+              <p className="text-[#FFFFFF] kadwa font-bold">Privacy Policy</p>
+              <p className="text-[#FFFFFF] kadwa font-bold">Cookie Policy</p>
+              <p className="text-[#FFFFFF] kadwa font-bold">
                 Terms & Conditions
               </p>
-              <p className="text-[#BBBCBD] kadwa font-bold">FaQ`s</p>
-              <p className="text-[#BBBCBD] kadwa font-bold">House Rules</p>
-              <p className="text-[#BBBCBD] kadwa font-bold">Gold Beer Company</p>
+              <p className="text-[#FFFFFF] kadwa font-bold">FaQ`s</p>
+              <p className="text-[#FFFFFF] kadwa font-bold">House Rules</p>
+              <p className="text-[#FFFFFF] kadwa font-bold">Gold Beer Company</p>
             </div>
           </div>
           <div className="xl:w-[10%] xl:flex justify-end hidden ">
@@ -114,28 +114,28 @@ export default function Footer() {
           </p>
           <div className="sm:flex sm:w-[360px] w-[160px]  m-auto  justify-between">
             <div>
-              <p className="text-[#BBBCBD] kadwa font-bold sm:mt-0 mt-3">
+              <p className="text-[#FFFFFF] kadwa font-bold sm:mt-0 mt-3">
                 Cookie Settings
               </p>
-              <p className="text-[#BBBCBD] kadwa font-bold sm:mt-0 mt-3">
+              <p className="text-[#FFFFFF] kadwa font-bold sm:mt-0 mt-3">
                 Privacy Policy
               </p>
-              <p className="text-[#BBBCBD] kadwa font-bold sm:mt-0 mt-3">
+              <p className="text-[#FFFFFF] kadwa font-bold sm:mt-0 mt-3">
                 Cookie Policy
               </p>
-              <p className="text-[#BBBCBD] kadwa font-bold sm:mt-0 mt-3">
+              <p className="text-[#FFFFFF] kadwa font-bold sm:mt-0 mt-3">
                 Terms & Conditions
               </p>
             </div>
             <div>
-              <p className="text-[#BBBCBD] kadwa font-bold sm:mt-0 mt-3">
+              <p className="text-[#FFFFFF] kadwa font-bold sm:mt-0 mt-3">
                 FaQ`s
               </p>
-              <p className="text-[#BBBCBD] kadwa font-bold sm:mt-0 mt-3">
+              <p className="text-[#FFFFFF] kadwa font-bold sm:mt-0 mt-3">
                 House Rules
               </p>
-              <p className="text-[#BBBCBD] kadwa font-bold sm:mt-0 mt-3">
-                Heineken Company
+              <p className="text-[#FFFFFF] kadwa font-bold sm:mt-0 mt-3">
+                Gold Beer Company
               </p>
             </div>
           </div>
