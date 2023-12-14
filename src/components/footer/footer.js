@@ -71,13 +71,13 @@ export default function Footer() {
               <div className="sm:block flex justify-between">
                 <div
                   className="w-[70px] h-[70px] rounded-[50%] flex justify-center items-center mt-3"
-                  style={{ border: "2px solid #26660D" }}
+                  style={{ border: "2px solid #D7F5E7" }}
                 >
                   <img src="/images/insta.svg" alt="" />
                 </div>
                 <div
                   className="w-[70px] h-[70px] rounded-[50%] flex justify-center items-center mt-3"
-                  style={{ border: "2px solid #26660D" }}
+                  style={{ border: "2px solid #D7F5E7" }}
                 >
                   <img src="/images/facebook.svg" alt="" />
                 </div>
