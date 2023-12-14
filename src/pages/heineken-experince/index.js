@@ -78,7 +78,7 @@ export default function HeinekenExperience() {
           <DatePicker className="bg-[#FFFFFF] h-[90px] cursor-pointer sm:w-[287px] w-[100%] flex justify-center items-center text-[#979494] text-[25px]" selected={startDate} onChange={(date) => setStartDate(date)} />
           <div
             onClick={checkTrue}
-            className="text-[#FFFFFF] sm:ml-[30px] cursor-pointer h-[90px] sm:w-[291px] w-[100%] sm:mt-0 mt-[10px] flex justify-center items-center bg-[#337B2C] hover:bg-[#1E4A19] text-[25px]"
+            className="text-[#2F5744] sm:ml-[30px] cursor-pointer h-[90px] sm:w-[291px] w-[100%] sm:mt-0 mt-[10px] flex justify-center items-center bg-[#D7F5E7] hover:bg-[#1E4A19] text-[25px]"
           >
             Claim your ticket
           </div>
