@@ -23,18 +23,18 @@ export default function Footer() {
         </div>
         <div>
           <div className="max-w-[336px] w-[100%]  sm:mt-0 mt-5">
-            <p className="text-[#5C615A] kadwa text-[16px] font-bold sm:text-start text-center ">
+            <p className="text-[#D7F5E7] kadwa text-[16px] font-bold sm:text-start text-center ">
               The experience
             </p>
             {experience.map((item, index) => (
               <div key={index}>
-                <p className="text-[#BBBCBD] text-xl kadwa font-bold py-2">
+                <p className="text-[#FFFFFF] text-xl kadwa font-bold py-2">
                   {item}
                 </p>
               </div>
             ))}
             <div className="flex justify-between">
-              <p className="text-[#BBBCBD] text-xl kadwa font-bold py-2">
+              <p className="text-[#FFFFFF] text-xl kadwa font-bold py-2">
                 Renewed Gold Beer Experience
               </p>
               <div className="cursor-pointer py-[3px] px-[18px] bg-[#26660D] rounded-[52px] h-fit kadwa text-white">
@@ -46,18 +46,18 @@ export default function Footer() {
         </div>
         <div>
           <div className="max-w-[197px] w-[100%]  sm:mt-0 mt-5">
-            <p className="text-[#5C615A] kadwa text-[16px] font-bold sm:text-start text-center ">
+            <p className="text-[#D7F5E7] kadwa text-[16px] font-bold sm:text-start text-center ">
               Meetings & Events
             </p>
             {event.map((item, index) => (
               <div key={index}>
-                <p className="text-[#BBBCBD] text-xl kadwa font-bold py-2">
+                <p className="text-[#FFFFFF] text-xl kadwa font-bold py-2">
                   {item}
                 </p>
               </div>
             ))}
 
-            <div className="w-[166px] h-[32px] bg-[#26660D]  mt-3 kadwa font-bold flex justify-center items-center text-white">
+            <div className="w-[166px] h-[32px] bg-[#D7F5E7]  mt-3 kadwa font-bold flex justify-center items-center text-white">
               Book your event
             </div>
           </div>
@@ -65,7 +65,7 @@ export default function Footer() {
         <div>
           <div className=" w-[100%] flex sm:justify-end justify-center sm:mt-0 mt-5 ">
             <div className="sm:max-w-[95px] max-w-[151px] w-[100%]">
-              <p className="text-[#BBBCBD] text-xl kadwa font-bold sm:text-start text-center">
+              <p className="text-[#FFFFFF] text-xl kadwa font-bold sm:text-start text-center">
                 Follow us
               </p>
               <div className="sm:block flex justify-between">
