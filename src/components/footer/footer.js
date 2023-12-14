@@ -107,7 +107,7 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <div className="bg-[#151C13]  p-[25px] xl:hidden">
+      <div className="bg-[#2F5744]  p-[25px] xl:hidden">
         <div className="grid sm:grid-cols-3 grid-cols-1 items-center">
           <p className="kadwa font-bold  text-white sm:block hidden">
             © 2023 Copyright
